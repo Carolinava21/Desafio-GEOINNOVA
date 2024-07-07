@@ -1,0 +1,29 @@
+
+.logo{
+    width: 189px;
+    height: 35px;
+    margin-top: 23px;
+    margin-left: 20px;
+
+}
+.menu{
+    margin-top: 16px;
+    margin-left: 16px;
+}
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -2%;
+}
+
+.bell{
+    margin-right: 4%;
+}
+
+.gear {
+    margin-right: 4%;
+}
+
+.person-circle{
+    margin-right: 4%;
+}
