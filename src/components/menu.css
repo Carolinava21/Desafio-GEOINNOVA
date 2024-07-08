@@ -1,25 +1,31 @@
-.lateral-menu{
-    display: flex;
-    
+.lateral-menu {
+  display: flex;
 }
-.accordion{
-    width: 17%;
+.accordion {
+  width: 16%;
+  margin-left: 1%;
+
 }
 
-button.accordion-button.collapsed{
-    background-color: white ;
-    color:#AB9384;
-    
+button.accordion-button.collapsed {
+  background-color: white;
+  color: #ab9384;
 }
 
 /* para sacar las flechas */
 .accordion-button::after {
-    display: none; 
-    background-color: #AB9384;  
-  }
-  
-  button.accordion-button:not(.collapsed) {
-    background-color: #AB9384; /* Color café */
-    color: white;
-    
+  display: none;
+  background-color: #ab9384;
 }
+
+button.accordion-button:not(.collapsed) {
+  background-color: #ab9384; /* Color café */
+  color: white;
+}
+.v-line{
+  border-left: 1px solid #979797;
+  height:100%;
+  left: 19%;
+  position: absolute;
+  margin-top: -11%;
+ }
