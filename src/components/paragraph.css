@@ -1,3 +1,14 @@
+.breadcrumb{
+    color:#979797;
+    display: flex;
+    margin-left: 21%;
+    margin-top: -10%;
+
+}
+#breadcrumbs{
+    color:#979797;
+    margin-left: -24%;
+}
 .paragraph{
     display: flex;
     flex-direction:column ;
@@ -6,21 +17,15 @@
 }
 h1{
     color: #538E9C;
+    margin-top: -2%;
     margin-bottom: 2%;
+    
 }
 h3{
     color: #1A1A1A;
+    margin-bottom: 1%;
 }
-.breadcrumb{
-    color:#979797;
-    display: flex;
-    margin-left: 21%;
 
-}
-#breadcrumbs{
-    color:#979797;
-    margin-left: -24%;
-}
 p{
     width: 45%;
     color:#1A1A1A
