@@ -46,8 +46,7 @@ export function Menu() {
           </div>
         </div>
       </div>
-      <div className="v-line">
-      </div>
+     
     </>
   );
 }

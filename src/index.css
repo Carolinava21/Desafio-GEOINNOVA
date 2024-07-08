@@ -25,3 +25,10 @@
 .person-circle {
   margin-right: 4%;
 }
+.v-line{
+  border-left: 1px solid #979797;
+  height:100%;
+  left: 19%;
+  position: absolute;
+  margin-top: -1%;
+ }

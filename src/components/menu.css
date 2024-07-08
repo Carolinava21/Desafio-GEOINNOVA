@@ -1,9 +1,10 @@
 .lateral-menu {
   display: flex;
-}
+ }
 .accordion {
   width: 16%;
   margin-left: 1%;
+  margin-top: -2%;
 
 }
 
@@ -22,10 +23,3 @@ button.accordion-button:not(.collapsed) {
   background-color: #ab9384; /* Color café */
   color: white;
 }
-.v-line{
-  border-left: 1px solid #979797;
-  height:100%;
-  left: 19%;
-  position: absolute;
-  margin-top: -11%;
- }

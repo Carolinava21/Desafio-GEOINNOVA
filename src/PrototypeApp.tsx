@@ -55,6 +55,8 @@ export function PrototypeApp() {
         </div>
       </header>
       <hr></hr>
+      <div className="v-line">
+      </div>
     </>
   );
 }
