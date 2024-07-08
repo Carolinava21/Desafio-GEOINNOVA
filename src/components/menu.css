@@ -1,0 +1,24 @@
+.lateral-menu {
+  display: flex;
+ }
+.accordion {
+  width: 16%;
+  margin-left: 1%;
+ 
+}
+
+button.accordion-button.collapsed {
+  background-color: white;
+  color: #ab9384;
+}
+
+/* para sacar las flechas */
+.accordion-button::after {
+  display: none;
+  background-color: #ab9384;
+}
+
+button.accordion-button:not(.collapsed) {
+  background-color: #ab9384; /* Color café */
+  color: white;
+}
