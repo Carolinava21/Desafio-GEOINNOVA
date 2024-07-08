@@ -2,11 +2,14 @@
     display: flex;
     
 }
- 
+.accordion{
+    width: 17%;
+}
 
 button.accordion-button.collapsed{
     background-color: white ;
     color:#AB9384;
+    
 }
 
 /* para sacar las flechas */
