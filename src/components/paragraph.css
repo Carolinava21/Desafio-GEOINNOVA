@@ -1,51 +1,46 @@
-.breadcrumb{
-    color:#979797;
-    display: flex;
-    margin-left: 21%;
-    margin-top: -10%;
-
+.breadcrumb {
+  color: #979797;
+  display: flex;
+  margin-left: 21%;
+  margin-top: -10%;
 }
-#breadcrumbs{
-    color:#979797;
-    margin-left: -24%;
+#breadcrumbs {
+  color: #979797;
+  margin-left: -24%;
 }
-.paragraph{
-    display: flex;
-    flex-direction:column ;
-    margin-left:21%;
-
+.paragraph {
+  display: flex;
+  flex-direction: column;
+  margin-left: 21%;
 }
-h1{
-    color: #538E9C;
-    margin-top: -2%;
-    margin-bottom: 2%;
-    
+h1 {
+  color: #538e9c;
+  margin-top: -2%;
+  margin-bottom: 2%;
 }
-h3{
-    color: #1A1A1A;
-    margin-bottom: 1%;
+h3 {
+  color: #1a1a1a;
+  margin-bottom: 1%;
 }
 
-p{
-    width: 45%;
-    color:#1A1A1A
+p {
+  width: 45%;
+  color: #1a1a1a;
 }
 
-ul{
-    display: flex;
-    flex-wrap:wrap;
-    list-style-type: none;  
-    width: 45%;
-    height: 10%;
-    margin-left: -3%;
-
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 45%;
+  height: 10%;
+  margin-left: -3%;
 }
 li {
-    flex: 1 0 33%; /* Tres columnas */
-    max-width: 33%;
-    margin-bottom: 10px; /* Ajusta el espaciado entre elementos si es necesario */
+  flex: 1 0 33%; /* Tres columnas */
+  max-width: 33%;
+  margin-bottom: 10px; /* Ajusta el espaciado entre elementos si es necesario */
 }
-#file-icon{
-   width: 15%;
-   
+#file-icon {
+  width: 15%;
 }
