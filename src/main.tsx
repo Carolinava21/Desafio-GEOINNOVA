@@ -4,6 +4,7 @@ import { PrototypeApp } from "./PrototypeApp";
 import { Menu } from "./components/Menu";
 import { Paragraph } from "./components/Paragraph";
 import { HeadingSelect } from "./components/HeadingSelect";
+import { Graphic  } from "./components/Graphic";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
@@ -12,5 +13,6 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     <Menu />
     <Paragraph />
     <HeadingSelect />
+    <Graphic/>
   </React.StrictMode>
 );
