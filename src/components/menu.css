@@ -1,0 +1,22 @@
+.lateral-menu{
+    display: flex;
+    
+}
+ 
+
+button.accordion-button.collapsed{
+    background-color: white ;
+    color:#AB9384;
+}
+
+/* para sacar las flechas */
+.accordion-button::after {
+    display: none; 
+    background-color: #AB9384;  
+  }
+  
+  button.accordion-button:not(.collapsed) {
+    background-color: #AB9384; /* Color café */
+    color: white;
+    
+}
