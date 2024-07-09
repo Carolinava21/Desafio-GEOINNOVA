@@ -19,6 +19,16 @@ button.accordion-button.collapsed {
 }
 
 button.accordion-button:not(.collapsed) {
-  background-color: #ab9384; /* Color café */
+  background-color: #ab9384; 
   color: white;
+}
+
+@media (max-width: 768px) {
+  .lateral-menu {
+    display: block;
+  }
+  .accordion {
+    width: 100%;
+    margin-left: 0;
+  }
 }

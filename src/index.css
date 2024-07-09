@@ -41,3 +41,30 @@
   position: absolute;
   margin-top: 7%
 }
+@media (max-width: 768px) {
+  .logo {
+    width: 150px;
+    height: 28px;
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  .menu {
+    margin-top: 10px;
+    margin-left: 8px;
+  }
+  .icons {
+    width: 100%;
+    margin-top: 0;
+  }
+  .bell,
+  .gear,
+  .person-circle {
+    margin-right: 2%;
+  }
+  .v-line,
+  .v-line2 {
+    height: 100%;
+    left: 0;
+    margin-top: 5%;
+  }
+}
