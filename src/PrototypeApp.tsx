@@ -57,6 +57,8 @@ export function PrototypeApp() {
       <hr></hr>
        <div className="v-line">
       </div>
+      <div className="v-line2">
+      </div>  
     </>
   );
 }
