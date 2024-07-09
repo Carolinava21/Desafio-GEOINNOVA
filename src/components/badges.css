@@ -31,26 +31,20 @@
   grid-column: span 1;
 }
 
-.btn{
-    
-    display: flex;
-    margin-top: 5%;
-   
-   
+.btn {
+  display: flex;
+  margin-top: 5%;
 }
-#btn1{
-    margin-right: 3%;
-    margin-left: 138%;
-    border-radius: 6px;
-    background-color: #979797;
-    color: #FFFFFF;
-    
-    
+#btn1 {
+  margin-right: 3%;
+  margin-left: 138%;
+  border-radius: 6px;
+  background-color: #979797;
+  color: #ffffff;
 }
-#btn2{
-    margin-right: 3%;
-    border-radius: 6px;
-    background-color: #926642;
-    color: #FFFFFF;
-    
+#btn2 {
+  margin-right: 3%;
+  border-radius: 6px;
+  background-color: #926642;
+  color: #ffffff;
 }

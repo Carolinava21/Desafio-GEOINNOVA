@@ -14,9 +14,9 @@ export function Badges() {
           </span>
         ))}
       </div>
-      <div className= "btn">
-      <button id="btn1">Button</button>
-      <button id="btn2">Button</button>
+      <div className="btn">
+        <button id="btn1">Button</button>
+        <button id="btn2">Button</button>
       </div>
     </>
   );
