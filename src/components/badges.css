@@ -1,0 +1,32 @@
+.badges {
+  margin-left: 64%;
+  size: 10px;
+  margin-top: 2%;
+}
+
+.badge {
+  background-color: #a8e2f0;
+  color: black;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Contenedor para organizar los badges */
+.badges-container {
+  display: grid;
+  grid-template-columns: repeat(15, auto);
+  gap: 10px;
+  justify-content: center;
+  margin-left: 105%;
+}
+
+/* Estilo para las dos primeras filas con 15 badges cada una */
+.badges-container .badge:nth-child(n + 1):nth-child(-n + 30) {
+  grid-column: span 1;
+}
+
+/* Estilo para la última fila con 5 badges */
+.badges-container .badge:nth-child(n + 31):nth-child(-n + 35) {
+  grid-column: span 1;
+}

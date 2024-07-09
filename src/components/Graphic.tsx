@@ -8,8 +8,7 @@ export const Graphic: React.FC = () => {
         <p className="p-grapic">
           Roin nunc quam, auctor placerat iaculis eu, vulputate eu mi
         </p>
-        <table className="table table-bordered "
-        id="table">
+        <table className="table table-bordered " id="table">
           <thead>
             <tr>
               <th id="titles">Row name</th>
@@ -31,7 +30,7 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    defaultChecked= {true}
+                    defaultChecked={true}
                   />
                 </div>
               </th>
@@ -45,38 +44,46 @@ export const Graphic: React.FC = () => {
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
+                </div>
+              </th>
             </tr>
             <tr>
               <th id="row">Row 2</th>
@@ -87,7 +94,6 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    
                   />
                 </div>
               </th>
@@ -98,42 +104,50 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    defaultChecked= {true}
+                    defaultChecked={true}
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
+                </div>
+              </th>
             </tr>
             <tr>
               <th id="row">Row 3</th>
@@ -144,7 +158,7 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                                     />
+                  />
                 </div>
               </th>
               <th>
@@ -157,39 +171,47 @@ export const Graphic: React.FC = () => {
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    defaultChecked= {true}
+                    defaultChecked={true}
                   />
-                </div></th>
-              <th><div className="form-check">
-                  <input
-                    className="form-check-input"
-                    type="radio"
-                    name="flexRadioDefault"
-                    id="flexRadioDefault1"
-                  />
-                </div></th>
-              <th><div className="form-check">
-                  <input
-                    className="form-check-input"
-                    type="radio"
-                    name="flexRadioDefault"
-                    id="flexRadioDefault1"
-                  />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
+                  <input
+                    className="form-check-input"
+                    type="radio"
+                    name="flexRadioDefault"
+                    id="flexRadioDefault1"
+                  />
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
+                  <input
+                    className="form-check-input"
+                    type="radio"
+                    name="flexRadioDefault"
+                    id="flexRadioDefault1"
+                  />
+                </div>
+              </th>
             </tr>
             <tr>
               <th id="row">Row 4</th>
@@ -200,7 +222,6 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    
                   />
                 </div>
               </th>
@@ -211,44 +232,50 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    defaultChecked= {true}
+                    defaultChecked={true}
                   />
-                </div></th>
-              <th><div className="form-check">
-                  <input
-                    className="form-check-input"
-                    type="radio"
-                    name="flexRadioDefault"
-                    id="flexRadioDefault1"
-                    
-                  />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
+                  <input
+                    className="form-check-input"
+                    type="radio"
+                    name="flexRadioDefault"
+                    id="flexRadioDefault1"
+                  />
+                </div>
+              </th>
             </tr>
             <tr>
               <th id="row">Row 5</th>
@@ -259,7 +286,6 @@ export const Graphic: React.FC = () => {
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    
                   />
                 </div>
               </th>
@@ -273,39 +299,47 @@ export const Graphic: React.FC = () => {
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    defaultChecked= {true}
+                    defaultChecked={true}
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
+                </div>
+              </th>
             </tr>
             <tr>
               <th id="row">Row 6</th>
@@ -329,40 +363,47 @@ export const Graphic: React.FC = () => {
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                   
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
-                    defaultChecked= {true}
+                    defaultChecked={true}
                   />
-                </div></th>
+                </div>
+              </th>
             </tr>
             <tr>
               <th id="row">Row 7</th>
@@ -386,37 +427,46 @@ export const Graphic: React.FC = () => {
                   />
                 </div>
               </th>
-              <th><div className="form-check">
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
                     id="flexRadioDefault1"
                   />
-                </div></th>
-              <th><div className="form-check">
+                </div>
+              </th>
+              <th>
+                <div className="form-check">
                   <input
                     className="form-check-input"
                     type="radio"
                     name="flexRadioDefault"
-                    id="flexRadioDefault1"/>
-                </div></th>
+                    id="flexRadioDefault1"
+                  />
+                </div>
+              </th>
             </tr>
           </tbody>
         </table>

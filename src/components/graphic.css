@@ -1,35 +1,33 @@
-.graphic-container{
-    margin-top: -54.5%;
-    margin-left: 64%;
-    width: 65%;
+.graphic-container {
+  margin-top: -56%;
+  margin-left: 64%;
+  width: 65%;
 }
 
-.p-grapic{
-    color:#666667;
-    width: 100%;
+.p-grapic {
+  color: #666667;
+  width: 100%;
 }
-#table{
-    width:100%;
-    border: 1px;
-    border-color: #666667;
-    
+#table {
+  width: 100%;
+  border: 1px;
+  border-color: #666667;
 }
-#flexRadioDefault1{
-    color: #926642;
+#flexRadioDefault1 {
+  color: #926642;
 }
-#titles{
-    color:#538E9C;
-    font-weight: 600;
+#titles {
+  color: #538e9c;
+  font-weight: 600;
 }
-
 
 .form-check {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
 
-#row{
-    font-weight: 400 ;
+#row {
+  font-weight: 400;
 }

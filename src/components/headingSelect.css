@@ -1,6 +1,7 @@
 .select {
   display: flex;
   margin-left: 21%;
+  margin-top: 2%;
 }
 
 .list-group {
@@ -26,4 +27,3 @@
   height: 16px;
   border-radius: 2px;
 }
-
